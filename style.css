@@ -1,0 +1,57 @@
+
+body {
+    font-family: verdana;
+}
+.main {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 1px 1px grey;
+    color: rgb(48, 50, 53);
+    margin-top: 10px;
+}
+#copycat {
+    height: 900px;
+    position: relative;
+}
+#columns {
+    background-color: white;
+    border-style: inset;
+    padding: 10px;
+    position: absolute;
+    top: 165%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.image2 {
+    width:80%;
+    position: center;
+    padding: 20px 50px 20px 450px;
+}
+.map {
+    width: 20px;
+    height: 20px;
+    position: left bottom;
+}
+.media-body {
+    width: 85%;
+}
+.ml-3 {
+    position: absolute;
+    top: 216%;
+    left: 86%;
+}
+.icons {
+    list-style-type: none; 
+    padding: 2px;
+}
+button {
+    margin-top:6px;
+}
+h2 {
+    color: darkblue;
+    text-align: center;
+    
+}
